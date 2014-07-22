@@ -1,0 +1,7 @@
+/* Estilo para el cuerpo del documento contraste.css*/
+@import "estilo.css";
+
+h1:before {content:"New ";
+	  font-size:10px;
+      color:red;
+}
